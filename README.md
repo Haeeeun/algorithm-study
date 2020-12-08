@@ -77,4 +77,6 @@
 
 - [ ] [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860 "프로그래머스 링크")
 
-- [ ] [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42586 "프로그래머스 링크")
+- [ ] [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883 "프로그래머스 링크")
+
+- [ ] [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885 "프로그래머스 링크")

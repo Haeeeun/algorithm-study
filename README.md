@@ -67,7 +67,7 @@
 
 - [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973 "프로그래머스 링크")
 
-- [팰린드롬]
+- 팰린드롬
 
 ## Week 6 ('20.12.02)
 

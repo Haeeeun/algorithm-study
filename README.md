@@ -59,6 +59,16 @@
 
 - [x] [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165 "프로그래머스 링크")
 
+## 모의고테 1차 ('20.11.28)
+
+### Problem Lists
+
+- [야근지수](https://programmers.co.kr/learn/courses/30/lessons/12927 "프로그래머스 링크")
+
+- [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973 "프로그래머스 링크")
+
+- 팰린드롬
+
 ## Week 6 ('20.12.02)
 
 ### Problem Lists
@@ -73,10 +83,22 @@
 
 ### Problem Lists
 
-- [ ] [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993 "프로그래머스 링크")
+- [x] [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993 "프로그래머스 링크")
 
-- [ ] [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860 "프로그래머스 링크")
+- [x] [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860 "프로그래머스 링크")
 
-- [ ] [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883 "프로그래머스 링크")
+- [x] [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883 "프로그래머스 링크")
 
-- [ ] [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885 "프로그래머스 링크")
+- [x] [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885 "프로그래머스 링크")
+
+## Week 8 ('20.12.15)
+
+### Problem Lists
+
+- [ ] [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842 "프로그래머스 링크")
+
+- [ ] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587 "프로그래머스 링크")
+
+- [ ] [문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951  "프로그래머스 링크")
+
+- [ ] [위장](https://programmers.co.kr/learn/courses/30/lessons/42578 "프로그래머스 링크")

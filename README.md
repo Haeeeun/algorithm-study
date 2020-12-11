@@ -101,4 +101,4 @@
 
 - [ ] [문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951  "프로그래머스 링크")
 
-- [ ] [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577 "프로그래머스 링크")
+- [ ] [위장](https://programmers.co.kr/learn/courses/30/lessons/42578 "프로그래머스 링크")

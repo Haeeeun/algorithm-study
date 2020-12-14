@@ -11,5 +11,4 @@ function solution(s) {
 
 	return answer;
 };
-
 solution("3people unFollowed me");

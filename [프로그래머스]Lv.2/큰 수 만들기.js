@@ -11,7 +11,7 @@ function solution(number, k) {
 			}
 			resultArr.push(currnetNum);
 	}
-	if (k > 0) resultArr.splice(resultArr.length - k, k);
+	if(k > 0) resultArr.splice(resultArr.length - k, k);
 	answer = resultArr.join('');
 	
 	return answer;

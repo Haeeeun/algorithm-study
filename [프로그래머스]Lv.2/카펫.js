@@ -18,6 +18,7 @@ solution(10,2);
 solution(8,1);
 solution(24,24);
 
+
 // function solution(brown, yellow) {
 // 	var answer = [];
 // 	let divideNum = parseInt(yellow / 8) + 3

@@ -95,10 +95,20 @@
 
 ### Problem Lists
 
-- [ ] [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842 "프로그래머스 링크")
+- [x] [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842 "프로그래머스 링크")
 
-- [ ] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587 "프로그래머스 링크")
+- [x] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587 "프로그래머스 링크")
 
-- [ ] [문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951  "프로그래머스 링크")
+- [x] [문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951  "프로그래머스 링크")
 
-- [ ] [위장](https://programmers.co.kr/learn/courses/30/lessons/42578 "프로그래머스 링크")
+- [x] [위장](https://programmers.co.kr/learn/courses/30/lessons/42578 "프로그래머스 링크")
+
+## Week 9 ('20.12.22)
+
+### Problem Lists
+
+- [ ] [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162 "프로그래머스 링크")
+
+- [ ] [방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683 "프로그래머스 링크")
+
+- [ ] [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888  "프로그래머스 링크")

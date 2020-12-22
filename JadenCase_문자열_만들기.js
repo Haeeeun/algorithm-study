@@ -46,7 +46,7 @@ const solution = (str) => {
     */
     if (str.length === 0) return '';
 
-    const arr = [...str];
+    const arr = [...str]; // 이 부분이 아마 한번돌거같은데
     arr[0] = upperChar(arr[0]);
     for (let i = 1; i < str.length; i++) {
         if (arr[i - 1] === ' ') arr[i] = upperChar(arr[i]);

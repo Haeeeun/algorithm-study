@@ -37,22 +37,28 @@ const solution = (priorities, location) => {
     const length = priorities.length; // 처음의 길이를 저장해야 함
     const sorted_desc = [...priorities].sort((a, b) => a - b); // 오름차순으로 정렬.
 
-    let curLocationIdx = location;
-    let remainingDocs = priorities.length;
+    let curLocationIdx = location; //
+    let remainingDocs = priorities.length; // 출력물 총 개수
     let i = 0;
 
     let curTask, curPriority;
 
+    /*
+        shift, pop 대신 i를 계속 증가시키는 방식
+    */
     while (remainingDocs > 0) {
-        curTask = priorities[i];
-        curPriority = sorted_desc[remainingDocs - 1]; // '큐' 개념
+        curTask = priorities[i]; // 이건 그냥 프린터의 큐
+        curPriority = sorted_desc[remainingDocs - 1]; // 우선순위 순서로 '큐' 개념 (현재 가장 큰 우선순위의 요소)
 
         if (curTask == curPriority) {
-            remainingDocs--;
-            if (i == curLocationIdx) break;
+            // 나와야 할 우선순위라면
+            remainingDocs--; // 이걸 줄이면 우선순위가 점점 낮아짐
+            if (i == curLocationIdx) break; // 반복문 종료 -> 끝!
         } else {
-            if (i == curLocationIdx) curLocationIdx += remainingDocs;
-            priorities.push(curTask);
+            // 아직 나올 차례가 아니라면
+            // 참고: remainingDocs 가 남은 배열의 크기이므로 가장 뒤로 가게 돼있음.
+            if (i == curLocationIdx) curLocationIdx += remainingDocs; // 프린터의 맨 뒤로 출력물을 넣음
+            priorities.push(curTask); // 가장 뒤에 넣는 것
         }
         i++;
     }

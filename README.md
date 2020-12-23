@@ -49,7 +49,7 @@
 
 - [x] [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165 "프로그래머스 링크")
 
-## 모의고테 1차 ('20.11.28')
+## Test 1 ('20.11.28')
 
 - [야근지수](https://programmers.co.kr/learn/courses/30/lessons/12927 "프로그래머스 링크")
 

@@ -11,6 +11,7 @@ import tc10 from './위장.js';
 import tc11 from './방금그곡.js';
 import tc12 from './오픈채팅방.js';
 import tc13 from './네트워크.js';
+import tc14 from './여행경로.js';
 
 // tc1();
 // tc2();
@@ -21,6 +22,7 @@ import tc13 from './네트워크.js';
 // tc8();
 // tc9();
 // tc10();
-tc11();
-tc12();
-tc13();
+// tc11();
+// tc12();
+// tc13();
+tc14();

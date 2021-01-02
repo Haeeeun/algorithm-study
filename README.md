@@ -95,8 +95,14 @@
 
 ## Week 10 ('20.12.22')
 
-- [ ] [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164 "프로그래머스 링크")
+- [x] [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164 "프로그래머스 링크")
 
-- [ ] [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686 "프로그래머스 링크")
+- [x] [파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686 "프로그래머스 링크")
 
-- [ ] [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059  "프로그래머스 링크")
+- [x] [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059  "프로그래머스 링크")
+
+## Week 11 ('21.01.05')
+
+- [ ] [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747 "프로그래머스 링크")
+
+- [ ] [Move Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/ "Leetcode 링크")

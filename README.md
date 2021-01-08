@@ -2,7 +2,7 @@
 
 ## Game Plan
 
-- 매주 **화요일 20:30**에 온라인으로 진행
+- 매주 **화요일, 토요일 20:30**에 온라인으로 진행
 - 매주 <s>3개</s> 4개 문제 푼 뒤, 서로 코드리뷰 및 비교
 - 매월 3째주 일요일마다 **모의고사** 진행
 - 문제풀이를 위해 적용하였거나 새로 공부한 알고리즘 또는 Data Structure 지식 공유
@@ -103,6 +103,12 @@
 
 ## Week 11 ('21.01.05')
 
-- [ ] [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747 "프로그래머스 링크")
+- [x] [H-index](https://programmers.co.kr/learn/courses/30/lessons/42747 "프로그래머스 링크")
 
-- [ ] [Move Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/ "Leetcode 링크")
+- [x] [Move Zeroes](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3157/ "Leetcode 링크")
+
+## Week 11-2 ('21.01.09')
+
+- [ ] [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189 "프로그래머스 링크")
+
+- [ ] [순위](https://programmers.co.kr/learn/courses/30/lessons/49191 "프로그래머스 링크")
